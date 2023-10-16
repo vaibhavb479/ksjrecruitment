@@ -40,11 +40,7 @@ const Contact = () => {
 
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.5092320354643!2d73.71510837389985!3d18.59615166686378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbb98e08c485%3A0x88605aadb7c213a6!2sGera&#39;s%20Imperium%20Rise!5e0!3m2!1sen!2sin!4v1697394426481!5m2!1sen!2sin"
-        width="600"
-        height="450"
-        style="border:0;"
         allowfullscreen=""
-        loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"
         width="100%"
         height="450"
